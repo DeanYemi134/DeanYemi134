@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeanYemi134
-- 👀 I’m interested in javascript programming 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m a javascript programmer
+- 🌱 I’m always learning 
+- 💞️ I’m looking for collaborations
 - 📫 How to reach me, contact me deanyemi2020@gmail.com
 
 <!---
