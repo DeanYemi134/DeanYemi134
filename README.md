@@ -1,4 +1,4 @@
--#ABOUT ME
+#ABOUT ME
 -  👋 Hi, I’m @DeanYemi134
 - 👀 I’m a javascript programmer (I code with react.js)
 - 🌱 I’m always learning 
