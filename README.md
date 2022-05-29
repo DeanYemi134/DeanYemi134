@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @DeanYemi134
-- 👀 I’m a javascript programmer
+-#ABOUT ME
+-  👋 Hi, I’m @DeanYemi134
+- 👀 I’m a javascript programmer (I code with react.js)
 - 🌱 I’m always learning 
 - 💞️ I’m looking for collaborations
 - 📫 How to reach me? contact me Ibrahimsharafadeen95@gmail.com
