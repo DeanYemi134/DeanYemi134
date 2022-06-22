@@ -1,9 +1,9 @@
-#ABOUT ME
--  👋 Hi, I’m @DeanYemi134
-- 👀 I’m a javascript programmer (I code with react.js)
-- 🌱 I’m always learning 
-- 💞️ I’m looking for collaborations
-- 📫 How to reach me? contact me Ibrahimsharafadeen95@gmail.com
+# ABOUT ME
+- Hi, I’m Yemi
+- A javascript programmer (I code with react.js)
+- Always learning 
+- Looking for collaborations
+- How to reach me? contact me Ibrahimsharafadeen95@gmail.com
 
 <!---
 DeanYemi134/DeanYemi134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
