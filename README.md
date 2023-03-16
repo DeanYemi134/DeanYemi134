@@ -1,8 +1,8 @@
 # ABOUT ME
 - Hi, I’m Yemi
-- A javascript developer (React.js)
+- A Software Developer
 - Always learning 
-- Looking for collaborations
+- Looking for collaborations, recommendations and opportunities
 - How to reach me?
 - contact me on Ibrahimsharafadeen95@gmail.com
 
